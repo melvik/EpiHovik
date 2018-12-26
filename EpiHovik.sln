@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpiHovik", "EpiHovik\EpiHovik.csproj", "{F6717801-3179-4F32-BF06-413C3AC24899}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpiComManager", "EpiComManager\EpiComManager.csproj", "{BB8625EB-7280-4E30-AA22-50147382E134}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F6717801-3179-4F32-BF06-413C3AC24899}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6717801-3179-4F32-BF06-413C3AC24899}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6717801-3179-4F32-BF06-413C3AC24899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB8625EB-7280-4E30-AA22-50147382E134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8625EB-7280-4E30-AA22-50147382E134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8625EB-7280-4E30-AA22-50147382E134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8625EB-7280-4E30-AA22-50147382E134}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

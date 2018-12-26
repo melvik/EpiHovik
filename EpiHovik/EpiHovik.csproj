@@ -97,6 +97,9 @@
     <Reference Include="EPiServer.Commerce.Shell, Version=12.14.0.0, Culture=neutral, PublicKeyToken=8fe83dea738b45b7, processorArchitecture=MSIL">
       <HintPath>..\packages\EPiServer.Commerce.UI.12.14.0\lib\net461\EPiServer.Commerce.Shell.dll</HintPath>
     </Reference>
+    <Reference Include="EPiServer.Commerce.Shell.ManagerIntegration, Version=12.14.0.0, Culture=neutral, PublicKeyToken=8fe83dea738b45b7, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPiServer.Commerce.UI.ManagerIntegration.12.14.0\lib\net461\EPiServer.Commerce.Shell.ManagerIntegration.dll</HintPath>
+    </Reference>
     <Reference Include="EPiServer.Commerce.UI, Version=12.14.0.0, Culture=neutral, PublicKeyToken=8fe83dea738b45b7, processorArchitecture=MSIL">
       <HintPath>..\packages\EPiServer.Commerce.UI.12.14.0\lib\net461\EPiServer.Commerce.UI.dll</HintPath>
     </Reference>
@@ -534,6 +537,7 @@
     <Content Include="modules\_protected\EPiServer.Commerce.Shell\EPiServer.Commerce.Shell.zip" />
     <Content Include="modules\_protected\Commerce\Commerce.zip" />
     <Content Include="modules\_protected\EPiServer.Commerce.UI.CustomerService\EPiServer.Commerce.UI.CustomerService.zip" />
+    <Content Include="modules\_protected\EPiServer.Commerce.Shell.ManagerIntegration\EPiServer.Commerce.Shell.ManagerIntegration.zip" />
     <None Include="packages.config" />
     <Content Include="Views\SearchPage\Index.cshtml" />
     <Content Include="Views\_viewstart.cshtml" />
