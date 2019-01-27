@@ -538,6 +538,7 @@
     <Content Include="modules\_protected\Commerce\Commerce.zip" />
     <Content Include="modules\_protected\EPiServer.Commerce.UI.CustomerService\EPiServer.Commerce.UI.CustomerService.zip" />
     <Content Include="modules\_protected\EPiServer.Commerce.Shell.ManagerIntegration\EPiServer.Commerce.Shell.ManagerIntegration.zip" />
+    <Content Include="License.config" />
     <None Include="packages.config" />
     <Content Include="Views\SearchPage\Index.cshtml" />
     <Content Include="Views\_viewstart.cshtml" />
